@@ -90,6 +90,9 @@ const Weather = () => {
                     } else {
                         setCityNameIsCorrect(false)
                     }
+                }).catch((error)=>{
+                    alert("server error")
+                    console.log("api response error",error)
                 })
         } catch (error) {
             console.log("Unexpected error", error)
