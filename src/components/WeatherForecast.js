@@ -1,6 +1,7 @@
 import React from 'react';
 
 const WeatherForecast = ({daysforecast, weatherImages}) => {
+    
   const groupByDay = (data) => {
     const days = {};
     data?.list?.forEach(item => {
