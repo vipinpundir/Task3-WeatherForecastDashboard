@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
-import clearCloudImg from './assets/clear.png'
-import fewCloudsImg from './assets/few clouds.png'
-import scatteredImg from './assets/brokencloud.png'
-import brokenCloudImg from './assets/brokencloud.png'
-import rainImg from './assets/rain.png'
-import lightrainImg from './assets/lightrain.png'
-import thunderstormImg from './assets/thunderstorm.png'
-import overcastImg from './assets/overcast.png'
+import clearCloudImg from '../assets/clear.png'
+import fewCloudsImg from '../assets/few clouds.png'
+import scatteredImg from '../assets/brokencloud.png'
+import brokenCloudImg from '../assets/brokencloud.png'
+import rainImg from '../assets/rain.png'
+import lightrainImg from '../assets/lightrain.png'
+import thunderstormImg from '../assets/thunderstorm.png'
+import overcastImg from '../assets/overcast.png'
 import WeatherForecast from './WeatherForecast';
 const apiKey = process.env.REACT_APP_API_KEY;
 
