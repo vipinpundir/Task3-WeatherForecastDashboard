@@ -6,6 +6,10 @@
 
 This project is a weather forecast dashboard built using React. It allows users to search for the current weather and a 5-day weather forecast for any city using the OpenWeatherMap API.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Features
 
 - **Search by City**: Users can input the name of a city to get the current weather details and a 5-day weather forecast.
@@ -25,7 +29,7 @@ This project is a weather forecast dashboard built using React. It allows users 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/weather-forecast-dashboard.git
+   git clone https://github.com/vipinpundir/weather-forecast-dashboard.git
 
 2. **Navigate to the project directory:**
 
